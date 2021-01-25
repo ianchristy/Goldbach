@@ -22,7 +22,7 @@
 #    12-7 =  5  -- prime  duplicate of [5,7] don't add
 #    12-11=  1  -- pass 
 #-------------------------------------------------------------------------
-#   the table we are going to create .... 
+#   the table we are going to create .... Ref: https://pastebin.com/6bNQRQVt
 #-------------------------------------------------------------------------
 #
 #   N	G(N)       
